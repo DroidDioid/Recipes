@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Рецепты</string>
+    <string name="calories_label">Калории:</string>
+    <string name="difficulty_label">Сложность:</string>
+    <string name="proteins_label">Белки:</string>
+    <string name="fats_label">Жиры:</string>
+    <string name="carbos_label">Углеводы:</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="calories_label">Calories:</string>
+    <string name="difficulty_label">Difficulty:</string>
+    <string name="proteins_label">Proteins:</string>
+    <string name="fats_label">Fats:</string>
+    <string name="carbos_label">Carbos:</string>
+</resources>
